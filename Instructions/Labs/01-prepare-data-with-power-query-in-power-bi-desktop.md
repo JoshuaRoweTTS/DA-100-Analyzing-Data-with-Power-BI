@@ -126,20 +126,6 @@ In this task you will create queries based on SQL Server tables.
 
 	![Picture 22](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image13.png)
 
-4. Notice that the default authentication is to **Use My Current Credentials**.
-
-	![Picture 23](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image14.png)
-
-	Power BI Desktop will connect to the SQL Server instance by using your identity. You have read permission to the data source you’re about to connect to.
-
-5. Click **Connect**.
-
-	![Picture 25](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image15.png)
-
-6. When prompted about encryption support, click **OK**.
-
-	![Picture 27](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image16.png)
-
 7. In the **Navigator** window, at the left, expand the **AdventureWorksDW2020** database.
 
 	The **AdventureWorksDW2020** database is based on the **AdventureWorksDW2017** sample database. It has been modified to support the learning objectives of the course labs.
