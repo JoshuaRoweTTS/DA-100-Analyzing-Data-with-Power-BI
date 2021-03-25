@@ -98,7 +98,7 @@ In this task you will configure the report header.
 
 20. In the report designer, notice that a report header region has been added to the report layout.
 
-21. To select the body textbox, click the “Click to add title” textbox.
+21. To select the body textbox, click the outskirts of the “Click to add title” textbox.
 
 22. To move the textbox, click the four-headed arrow icon, and then drag it into the header region to then drop it at the very top-left of the report header region.
 
@@ -189,7 +189,7 @@ In this task you will create a data source and dataset to retrieve a query resul
 
 2. In the **Data Source Properties** window, in the **Name** box, replace the text with **AdventureWorksDW2020**.
 
-3. In the **Select Connection Type** dropdown list, notice that **Microsoft SQL Server** is selected.
+3. In the **Select Connection Type** dropdown list, select **Microsoft SQL Server**.
 
 4. To build the connection string, click **Build**.
 
